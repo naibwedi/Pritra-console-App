@@ -7,7 +7,8 @@ Pritra is a console application designed for managing private transportation ser
 
 ## Design View
 
-![image](https://github.com/user-attachments/assets/740cc43c-74e8-4187-9c61-0741e63239ff)
+![image](https://github.com/user-attachments/assets/c80b094f-f31a-47c1-818d-fd245629bc88)
+
 
 
 ## Features
